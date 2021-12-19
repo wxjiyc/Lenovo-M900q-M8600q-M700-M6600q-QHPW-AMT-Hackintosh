@@ -25,6 +25,7 @@ EFI for Lenovo-M900q-M8600q-M700-M6600q-QHPW-AMT with OpenCore 0.7.6 bootloader
 - [x] Intel I219-V / LM
 - [x] Intel Wi-Fi & Bluetooth
 - [x] NVRAM
+- [x] Intel AMT
 
 ### BIOS Settings:
 
