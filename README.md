@@ -29,7 +29,7 @@ EFI for Lenovo-M900q-M8600q-M700-M6600q-QHPW-AMT with OpenCore 0.7.6 bootloader
 
 ### BIOS Settings:
 
-* Flash the mod BIOS 
+* Flash the mod BIOS or set DVMT to 128M
 
 ## Credits
 
