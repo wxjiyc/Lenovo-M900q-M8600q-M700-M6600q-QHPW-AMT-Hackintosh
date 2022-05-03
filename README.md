@@ -1,5 +1,5 @@
 # Lenovo-M900q-M8600q-M700-M6600q-QHPW-AMT-Hackintosh
-EFI for Lenovo-M900q-M8600q-M700-M6600q-QHPW-AMT with OpenCore 0.7.6 bootloader  
+EFI for Lenovo-M900q-M8600q-M700-M6600q-QHPW-AMT with OpenCore 0.8.0 bootloader  
 
 ### Computer Spec:
 
@@ -13,7 +13,7 @@ EFI for Lenovo-M900q-M8600q-M700-M6600q-QHPW-AMT with OpenCore 0.7.6 bootloader
 | Audio            | Realtek ALC233                         |
 | WiFi & Bluetooth | Intel Wi-Fi 6 AX200 / 7265AC           |
 | SMBIOS           | MacMini8,1                             |
-| BootLoader       | OpenCore 0.7.6                         |
+| BootLoader       | OpenCore 0.8.0                         |
 
 ### What Works:
 
